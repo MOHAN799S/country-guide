@@ -112,7 +112,7 @@ country-guide/
 
 ## 👤 Author
 
-**Your Name**
+**Mohan Lakshman Sangidi**
 - GitHub: MOHAN799S(https://github.com/MOHAN799S)
 - LinkedIn: Mohan Lakshman Sangidi
 (https://www.linkedin.com/in/mohan-lakshman-sangidi-287322256/)
