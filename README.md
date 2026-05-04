@@ -117,11 +117,6 @@ country-guide/
 - LinkedIn: Mohan Lakshman Sangidi
 (https://www.linkedin.com/in/mohan-lakshman-sangidi-287322256/)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
